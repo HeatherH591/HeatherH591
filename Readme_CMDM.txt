@@ -1,0 +1,4 @@
+The following file SharedCustomerData_CMDM_CustomerContactData_XXXXX.json contains information gathered during interactions you have had with Intuit.  These interactions include, but are not limited to: purchases; product registrations and activations; support calls, interactions and communications; account service calls, interactions and communications; management of your subscriptions; billing, payment and collections related activity; and marketing communications.  This data is not unique to any specific product you may own or use as you may be associated to many Intuit products or no Intuit products.
+
+Intuit Enterprise Customer Account - An entity within the Intuit ecosystems that has chosen to do business with Intuit (i.e. a purchased or acquired an Intuit sold offering) Related to Ecosystem ID. Potential information captured: Customer Name, Address, Contact, e-mail address.
+
